@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to edit a color by using the ASPxColorEdit
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2380/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to edit and display a color kept in a database as a String value.</p>
